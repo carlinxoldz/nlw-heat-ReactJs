@@ -1,6 +1,6 @@
 # NLW-HEAT DoWhile2021
 
-![Alt text](https://github.com/carlinxoldz/nlw-heat-ReactJs/blob/master/src/assets/1.png"Optional Title")
+![Alt text](https://github.com/carlinxoldz/nlw-heat-ReactJs/blob/master/src/assets/1.png 'Optional Title')
 
 ## Sobre o evento:
 
